@@ -28,12 +28,4 @@
 - 🎯 **Atomic commits** - Safe reverts and clean history
 - 📊 **Metrics & analytics** - Track team performance and patterns
 
----
 
-## 🎯 Quick Start
-
-### 1. Install the Template
-```bash
-# Copy the commit template to your global git config
-curl -s https://raw.githubusercontent.com/username/commitmaster-pro/main/.gitmessage > ~/.gitmessage
-git config --global commit.template ~/.gitmessage
